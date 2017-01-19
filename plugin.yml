@@ -1,0 +1,11 @@
+main: rocks.tricks.main.Core
+version: 1.0
+name: CustomConnectMessages
+
+permissions:
+customjoinmessage.join.donator:
+    default: false
+customjoinmessage.join.admin:
+    default: false
+customjoinmessage.join.staff:
+    default: false

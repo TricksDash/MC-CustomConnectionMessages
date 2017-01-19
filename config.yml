@@ -1,0 +1,18 @@
+# Created by TricksDash #
+# https://github.com/TricksDash #
+
+# Thanks for downloading, be sure to give me suggestions and I will try and get them added :-) #
+# Use %P for player names.
+
+# Join Messages #
+AdminJoin: '&e%P has joined their realm!'
+StaffJoin: '&e%P has been summoned to the realm!'
+DonatorJoin: '&e%P has graced this realm with their pressence'
+DefaultJoin: '&e%P has joined'
+#
+# Leave Messages # 
+#
+AdminLeave: '&e%P has left their realm!'
+StaffLeave: '&e%P has been summoned out of the realm!'
+DonatorLeave: '&e%P has graced another realm with their pressence'
+DefaultLeave: '&e%P has left'
